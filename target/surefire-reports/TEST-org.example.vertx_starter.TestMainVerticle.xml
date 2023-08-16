@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.vertx_starter.TestMainVerticle" time="0.47" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.vertx_starter.TestMainVerticle" time="0.373" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="/Users/lombrozo/Library/Java/JavaVirtualMachines/azul-17.0.5/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire/surefirebooter10261248910090907631.jar /Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire 2023-08-16T13-58-19_787-jvmRun1 surefire2967289129143705975tmp surefire_015127720584954880833tmp"/>
+    <property name="sun.java.command" value="/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire/surefirebooter12509994799355474808.jar /Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire 2023-08-16T14-05-01_251-jvmRun1 surefire8986613887645536890tmp surefire_0187706408975097340tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/test-classes:/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/classes:/Users/lombrozo/.m2/repository/io/vertx/vertx-web/4.4.4/vertx-web-4.4.4.jar:/Users/lombrozo/.m2/repository/io/vertx/vertx-web-common/4.4.4/vertx-web-common-4.4.4.jar:/Users/lombrozo/.m2/repository/io/vertx/vertx-auth-common/4.4.4/vertx-auth-common-4.4.4.jar:/Users/lombrozo/.m2/repository/io/vertx/vertx-bridge-common/4.4.4/vertx-bridge-common-4.4.4.jar:/Users/lombrozo/.m2/repository/io/vertx/vertx-core/4.4.4/vertx-core-4.4.4.jar:/Users/lombrozo/.m2/repository/io/netty/netty-common/4.1.94.Final/netty-common-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-buffer/4.1.94.Final/netty-buffer-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-transport/4.1.94.Final/netty-transport-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-handler/4.1.94.Final/netty-handler-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.94.Final/netty-transport-native-unix-common-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-codec/4.1.94.Final/netty-codec-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-handler-proxy/4.1.94.Final/netty-handler-proxy-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-codec-socks/4.1.94.Final/netty-codec-socks-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-codec-http/4.1.94.Final/netty-codec-http-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-codec-http2/4.1.94.Final/netty-codec-http2-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-resolver/4.1.94.Final/netty-resolver-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-resolver-dns/4.1.94.Final/netty-resolver-dns-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/io/netty/netty-codec-dns/4.1.94.Final/netty-codec-dns-4.1.94.Final.jar:/Users/lombrozo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.jar:/Users/lombrozo/.m2/repository/io/vertx/vertx-junit5/4.4.4/vertx-junit5-4.4.4.jar:/Users/lombrozo/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:/Users/lombrozo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/Users/lombrozo/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/lombrozo/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/Users/lombrozo/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/lombrozo/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/Users/lombrozo/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire/surefirebooter10261248910090907631.jar"/>
+    <property name="surefire.real.class.path" value="/Users/lombrozo/Workspace/OpenSource/vert-x-example/target/surefire/surefirebooter12509994799355474808.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.5+8-LTS"/>
@@ -55,5 +55,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="verticle_deployed{Vertx, VertxTestContext}" classname="org.example.vertx_starter.TestMainVerticle" time="0.463"/>
+  <testcase name="verticle_deployed{Vertx, VertxTestContext}" classname="org.example.vertx_starter.TestMainVerticle" time="0.368"/>
 </testsuite>
